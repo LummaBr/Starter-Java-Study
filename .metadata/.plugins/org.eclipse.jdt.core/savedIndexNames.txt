@@ -1,0 +1,13 @@
+INDEX VERSION 1.134+C:\Users\Lumma\Spaces\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
+2692071719.index
+1645032724.index
+1865797976.index
+1227424218.index
+642865084.index
+2167933430.index
+405887052.index
+352978306.index
+1207716780.index
+1635404021.index
+3769825106.index
+4246523223.index
